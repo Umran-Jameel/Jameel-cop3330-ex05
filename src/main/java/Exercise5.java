@@ -33,7 +33,7 @@ public class Exercise5 {
             System.exit(0);
         }
 
-        // challenge no negative numbers
+        // challenge no negative numbers 
         if (first < 0 || second < 0) {
             System.out.println("Please enter a positive numeric value!");
             System.exit(0);
